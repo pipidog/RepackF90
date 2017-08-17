@@ -1,0 +1,42 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+MYLIB
+	+Test
+		..\..\Desktop\f_bath\SRT_test.f90
+		..\..\Desktop\f_bath\CHEEV_Test.f90
+	+Manybody
+		MYLIB_MANYBODY.f90
+	+Math
+		MYLIB_MATH.f90
+	+IO
+		MYLIB_IO.f90
+[Open project files]
+0=..\..\Desktop\f_bath\SRT_test.f90
+1=MYLIB_MATH.f90
+2=..\..\Desktop\f_bath\CHEEV_Test.f90
+3=MYLIB_IO.f90
+[Selected Project Files]
+Main=
+Selected=MYLIB_IO.f90
+[..\..\Desktop\f_bath\SRT_test.f90]
+TopLine=5
+Caret=34,12
+[MYLIB_MATH.f90]
+TopLine=148
+Caret=81,168
+[..\..\Desktop\f_bath\CHEEV_Test.f90]
+TopLine=5
+Caret=39,28
+[MYLIB_IO.f90]
+TopLine=1
+Caret=51,7

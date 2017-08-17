@@ -1,0 +1,71 @@
+<NotepadPlus>
+    <Project name="Fortran Library">
+        <Folder name="PI_LIB_IO">
+            <File name="PI_IO_PRINT.f90" />
+            <File name="PI_IO_READ.f90" />
+        </Folder>
+        <Folder name="PI_LIB_Functions">
+            <File name="PI_FUNC_FIND_INDEX.f90" />
+            <File name="PI_FUNC_CLEAN.f90" />
+            <File name="PI_FUNC_NESTED_LOOP.f90" />
+            <File name="PI_FUNC_DIAG_MV.f90" />
+            <File name="PI_FUNC_SORT.f90" />
+        </Folder>
+        <Folder name="PI_LIB_ManyBody">
+            <File name="PI_MNBD_FERMION_OP.f90" />
+            <File name="PI_MNBD_FOCK_OCCUP.f90" />
+            <File name="PI_MNBD_FOCK_CONVERT.f90" />
+        </Folder>
+        <Folder name="PI_LIB_Math">
+            <File name="PI_MATH_COMBINE.f90" />
+            <File name="PI_MATH_EIGR.f90" />
+            <File name="PI_MATH_EIGQ.f90" />
+            <File name="PI_MATH_EIGX.f90" />
+            <File name="PI_MATH_EIGD.f90" />
+        </Folder>
+        <Folder name="PI_LIB_SPARSE">
+            <File name="PI_SPAR_FULL.f90" />
+            <File name="PI_SPAR_PS.f90" />
+            <File name="PI_SPAR_SIZE.f90" />
+            <File name="PI_SPAR_BLKDIAG.f90" />
+        </Folder>
+    </Project>
+    <Project name="f_bath_imp">
+        <Folder name="f_c">
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\f_H_gen.f90" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\f_H_diag_MR3.f90" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\H_coup_c.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\H_coup_rc.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\FOCK_STATE.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\FOCK_STATE_NEW.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\H_SP_INDEX.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\H_SP_INDEX_NEW.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\H_SP_VAL.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\FOCK_GRP.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\SUB_GRP_N.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_c\User manual.txt" />
+        </Folder>
+        <Folder name="f_rc">
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\f_H_gen.f90" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\f_H_diag_MR3.f90" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\FOCK_GRP.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\FOCK_STATE.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\FOCK_STATE_NEW.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_coup_c.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_coup_rc.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_SP_INDEX.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_SP_INDEX_NEW.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_SP_VAL.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\H_SP_VAL_NEW.txt" />
+            <File name="C:\Users\pipidog\Dropbox\My Project\ExactDiag\f_rc\SUB_GRP_N.txt" />
+        </Folder>
+    </Project>
+    <Project name="Python">
+        <File name="C:\Users\pipidog\Dropbox\Python Library\blackjack.py" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\blah.py" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\fellows.csv" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\python note.txt" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\referral.py" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\referrals.csv" />
+    </Project>
+</NotepadPlus>

@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Project name="Fortran Library">
+        <Folder name="MYLIB Math">
+            <File name="MYLIB_MATH.f90" />
+        </Folder>
+        <Folder name="MYLIB IO">
+            <File name="MYLIB_IO.f90" />
+        </Folder>
+        <Folder name="MYLIB ManyBody">
+            <File name="MYLIB_MANYBODY.f90" />
+        </Folder>
+    </Project>
+    <Project name="Function Tese">
+        <File name="C:\Users\pipidog\Desktop\f_bath\SRT_test.f90" />
+        <File name="C:\Users\pipidog\Desktop\f_bath\CHEEV_Test.f90" />
+    </Project>
+</NotepadPlus>
